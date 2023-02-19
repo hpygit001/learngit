@@ -1,3 +1,4 @@
 这是在master上添加的内容
 这在dev分支上添加的内容
+强转禁用Fast forward模式
 
